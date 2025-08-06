@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cgm_qc.dir/objects.a
+D:\QT\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\cgm_qc.dir/objects.a @CMakeFiles\cgm_qc.dir\objects1.rsp
+D:\QT\Tools\mingw1120_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cgm_qc.dir/objects.a -Wl,--no-whole-archive -o cgm_qc.exe -Wl,--out-implib,libcgm_qc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cgm_qc.dir\linkLibs.rsp

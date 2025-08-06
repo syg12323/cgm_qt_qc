@@ -1,0 +1,5 @@
+F:/work/software/3.cgm_qc_qt/cgm_qt_qc/build/CMakeFiles/cgm_qc.dir
+F:/work/software/3.cgm_qc_qt/cgm_qt_qc/build/CMakeFiles/edit_cache.dir
+F:/work/software/3.cgm_qc_qt/cgm_qt_qc/build/CMakeFiles/rebuild_cache.dir
+F:/work/software/3.cgm_qc_qt/cgm_qt_qc/build/CMakeFiles/cgm_qc_autogen_timestamp_deps.dir
+F:/work/software/3.cgm_qc_qt/cgm_qt_qc/build/CMakeFiles/cgm_qc_autogen.dir
